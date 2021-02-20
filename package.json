@@ -1,0 +1,21 @@
+{
+  "name": "mine-util-lib",
+  "version": "0.0.1",
+  "description": "自定义工具包",
+  "scripts": {
+    "serve": "node ./src/index.js"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MXHOO/code_ach.git"
+  },
+  "author": "mengxiaohui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MXHOO/code_ach/issues"
+  },
+  "homepage": "https://github.com/MXHOO/code_ach#readme"
+}
